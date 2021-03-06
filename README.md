@@ -1,6 +1,6 @@
 ## Used Libraries
-#~ Bootstraps
-#~ JQuery
+# ~ Bootstraps
+# ~ JQuery
 
 ### Used Languages
 ~ PHP
