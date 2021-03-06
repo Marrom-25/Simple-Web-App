@@ -1,7 +1,4 @@
-#About 
-This program only made for examination in ActMedicalGroup Inc
-
-### Used Libraries
+## Used Libraries
 ~ Bootstraps
 ~ JQuery
 
